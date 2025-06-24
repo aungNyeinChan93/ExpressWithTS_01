@@ -11,4 +11,4 @@ const connectDb = async (callback: any) => {
     callback()
 };
 
-export default connectDb;
+export default connectDb;gi
